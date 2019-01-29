@@ -1,4 +1,4 @@
-#Exercise
+# Exercise
 
 We create a Spring JMS ActiveMQ with JMS Producer & JMS Consumer
 
@@ -9,4 +9,7 @@ We create a Spring JMS ActiveMQ with JMS Producer & JMS Consumer
 - Spring Boot: 2.1.2.RELEASE
 - ActiveMQ
 
-#
+# Links
+
+If you need help with ActiveMQ you can find more information here:
+- http://activemq.apache.org/getting-started.html
